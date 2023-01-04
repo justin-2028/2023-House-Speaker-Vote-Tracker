@@ -25,7 +25,7 @@ All data are official figures from the U.S. House of Representatives's governmen
 # Dataset History
 2023-01-03 - Dataset is created (0 days after the 2023 House Speaker Vote began).
 
-[GitHub Repository](https://github.com/justin-2028/2023-House-Speaker-Vote-Tracker) - The same data but on GitHub.
+[Kaggle Dataset](https://www.kaggle.com/datasets/justin2028/2023-house-speaker-vote-tracker) - The same data but on Kaggle.
 
 # Code Starter
 [Daily Data and Plot Example](https://www.kaggle.com/code/justin2028/daily-statistics-of-2022-iran-protests)
