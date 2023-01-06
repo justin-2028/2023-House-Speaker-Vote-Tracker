@@ -2,7 +2,7 @@
 
 ![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12064410%2F0d2cf839e352f54fab12217e5f6ea9d6%2Fhouse%20speaker%20flag%20logo.png?generation=1672819425185054&alt=media)
 
-# DAY 2 (January 3rd, 2023 - January 4th, 2023)
+# DAY 3 (January 3rd, 2023 - January 5th, 2023)
 This is a dataset that describes each representative's information and vote details for all ballots during the 2023 House Speaker Vote.
 
 All data are official figures from the U.S. House of Representatives's government website that have been compiled and structured by myself. To be clear, the House of Representatives usually has **435 MEMBERS**, but **ONLY 434 ARE PARTICIPATING IN THE VOTE** due to the sudden vacancy of Virginia's 4th District seat (that resulted from the death of Rep. Donald McEachin). There are also 5 delegates representing the District of Columbia, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands and 1 resident commissioner representing Puerto Rico, but they are outside of the 435 House members and do not have voting powers.
