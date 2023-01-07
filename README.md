@@ -2,13 +2,13 @@
 
 ![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12064410%2F0d2cf839e352f54fab12217e5f6ea9d6%2Fhouse%20speaker%20flag%20logo.png?generation=1672819425185054&alt=media)
 
-# DAY 3 (January 3rd, 2023 - January 5th, 2023)
-This is a dataset that describes each representative's information and vote details for all ballots during the 2023 House Speaker Vote.
+# DAY 4 (January 3rd, 2023 - January 6th, 2023)
+This is a dataset that describes each representative's information and vote details for all ballots during the 2023 House Speaker Vote. **[UPDATE]:** On January 6th, 2023, Kevin McCarthy was elected House speaker in the *15th round* of voting.
 
 All data are official figures from the U.S. House of Representatives's government website that have been compiled and structured by myself. To be clear, the House of Representatives usually has **435 MEMBERS**, but **ONLY 434 ARE PARTICIPATING IN THE VOTE** due to the sudden vacancy of Virginia's 4th District seat (that resulted from the death of Rep. Donald McEachin). There are also 5 delegates representing the District of Columbia, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands and 1 resident commissioner representing Puerto Rico, but they are outside of the 435 House members and do not have voting powers.
 
 # Data Sources
-#### The primary data sources used were the various webpages of the U.S. House of Representatives. The website not only provides extensive information on each representative, but also details of each vote in every meeting.
+##### The primary data sources used were the various webpages of the U.S. House of Representatives. The website not only provides extensive information on each representative, but also details of each vote in every meeting.
 
 1. [U.S. House of Representatives's Office of the Clerk](https://clerk.house.gov/) - The Office of the Clerk published daily roll call reports that clearly explained the details of the vote and the selected/proposed nominee of each representative.
 2. [U.S. House of Representatives's Directory of Representatives](https://www.house.gov/representatives) - The Directory of Representatives provided a structure to build the dataset around as it provided vital information about each representative such as their political affiliation. 
@@ -21,6 +21,18 @@ All data are official figures from the U.S. House of Representatives's governmen
 - **Ballot 1** - Name voted for in Ballot 1 by the representative.
 - **Ballot 2** - Name voted for in Ballot 2 by the representative.
 - **Ballot 3** - Name voted for in Ballot 3 by the representative.
+- **Ballot 4** - Name voted for in Ballot 4 by the representative.
+- **Ballot 5** - Name voted for in Ballot 5 by the representative.
+- **Ballot 6** - Name voted for in Ballot 6 by the representative.
+- **Ballot 7** - Name voted for in Ballot 7 by the representative.
+- **Ballot 8** - Name voted for in Ballot 8 by the representative.
+- **Ballot 9** - Name voted for in Ballot 9 by the representative.
+- **Ballot 10** - Name voted for in Ballot 10 by the representative.
+- **Ballot 11** - Name voted for in Ballot 11 by the representative.
+- **Ballot 12** - Name voted for in Ballot 12 by the representative.
+- **Ballot 13** - Name voted for in Ballot 13 by the representative.
+- **Ballot 14** - Name voted for in Ballot 14 by the representative.
+- **Ballot 15** - Name voted for in Ballot 15 by the representative.
 
 # Dataset History
 2023-01-03 - Dataset is created (0 days after the 2023 House Speaker Vote began).
